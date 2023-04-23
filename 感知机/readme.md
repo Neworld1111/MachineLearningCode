@@ -1,0 +1,2 @@
+perceptron.ipynb为随机梯度下降法
+perceptron2.ipynb为感知机的对偶形式
